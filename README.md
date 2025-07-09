@@ -7,12 +7,12 @@ I'm <span style="color:#82AAFF">Vivek Nikam</span>, a passionate developer & tec
 
 <div align="left">
 
-🎓 <strong>BSc Student</strong> • 🇮🇳 India • <strong>Software Developer</strong>  
+🎓 <strong>Masters Student</strong> • 🇮🇳 India • <strong>Software Developer</strong>  
 💻 Python • React.js • Next.js • Firebase • Django  
 🧠 Problem Solving • 200+ LeetCode Qs • Git & GitHub  
 🎨 UI/UX Design • Linux • Automation Projects  
-🎮 Chess • Anime • Jungle Walks • Self-Mastery  
-🥚 Egg-based Protein • ☕ Coffee • 🍫 Dark Chocolate  
+
+ 
 
 <br>
 
