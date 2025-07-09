@@ -14,26 +14,7 @@ I'm <span style="color:#82AAFF">Vivek Nikam</span>, a passionate developer & tec
 
  
 
-<br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9hnhCPfPI3nK/giphy.gif" width="50" />
-</p>
-
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-229954?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 </div>
 
