@@ -40,7 +40,7 @@ I'm <span style="color:#82AAFF">Vivek Nikam</span>, a passionate developer & tec
 </td>
 <td>
 
-<img src="https://i.imgur.com/y7l1iTO.jpg" width="300" style="border-radius:12px"/>
+<img src="https://i.imgur.com/y7l1iTO.jpg](https://www.dice.com/binaries/content/gallery/dice/insights/2019/01/Bootcamp-MOOC-Learning-Tech-Coding-Programming-Dice-1024x640.png" width="300" style="border-radius:12px"/>
 
 </td>
 </tr>
