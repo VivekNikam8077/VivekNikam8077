@@ -1,16 +1,41 @@
-## Hi there 👋
+<h2 align="center">Hello hello 👋<br>
+I'm Vivek, a tech explorer & creative mind 🚀</h2>
 
-<!--
-**VivekNikam8077/VivekNikam8077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
 
-Here are some ideas to get you started:
+🎓 MSC Student • 🇮🇳 India • Software Developer  
+💻 Python • React.js • Next.js • Firebase • Django  
+🎨 UI/UX Design • Linux Enthusiast • Git & GitHub  
+🛠️ Loves building apps, solving LeetCode, and automating tasks  
+🎮 Chess • Anime • Walking in nature • Deep Thinker  
+☕ Coffee & 🍫 Dark Chocolate addict • Egg-based protein fan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9hnhCPfPI3nK/giphy.gif" width="50" />
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-00b894?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td>
+  <img src="https://i.pinimg.com/originals/27/f9/6c/27f96c45a8db9edafc7034df8c62a897.jpg" width="300"/>
+</td>
+</tr>
+</table>
